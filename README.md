@@ -25,12 +25,10 @@ git clone https://github.com/AugustoCedro/InfnetFood
 ### Tela de Produtos
 ![](images/Produtos.png)
 ### Tela do carrinho
-![](images/cart.png)
+![](images/config.png)
 ### Tela dos pedidos
 ![](images/pedidos.png)
 ### Tela de checkout
 ![](images/checkout.png)
-### Tela dos restaurantes
-![](images/restaurantes.png)
 ### Tela de configurações
-![](images/config.png)
+![](images/restaurantes.png)
